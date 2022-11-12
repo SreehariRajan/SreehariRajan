@@ -12,7 +12,7 @@
 ```javascript
 const about = {
   code: [Javascript, Typescript, HTML, CSS, Python, Java, C],
-  tools: [React, React Native, Redux, Node, PyTorch, Tensorflow],
+  tools: [React, React Native, Redux, NodeJs, PyTorch, Tensorflow],
   
 }
 ```
