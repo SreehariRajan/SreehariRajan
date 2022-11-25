@@ -11,7 +11,7 @@
 
 ```javascript
 const about = {
-  code: [Javascript, Typescript, HTML, CSS, Python, Java, C],
+  code: [Javascript, Typescript, HTML, CSS, Python, Java, C, Solidity],
   tools: [React, React Native, Redux, NodeJs, PyTorch, Tensorflow],
   
 }
