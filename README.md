@@ -5,14 +5,6 @@
 [![GitHub SreehariRajan](https://img.shields.io/github/followers/SreehariRajan?label=follow&style=social)](https://github.com/SreehariRajan)
 
 
-#### A little more about me...  
 
-```javascript
-const about = {
-  code: [Javascript, Typescript, HTML, CSS, Python, Java, C, Solidity],
-  tools: [Next, React, React Native, Redux, NodeJs, PyTorch, Tensorflow],
-  
-}
-```
 
 
